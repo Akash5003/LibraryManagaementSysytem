@@ -1,0 +1,17 @@
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\bin\Debug\net8.0\LibraryManagementSysytem.exe
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\bin\Debug\net8.0\LibraryManagementSysytem.deps.json
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\bin\Debug\net8.0\LibraryManagementSysytem.runtimeconfig.json
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\bin\Debug\net8.0\LibraryManagementSysytem.dll
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\bin\Debug\net8.0\LibraryManagementSysytem.pdb
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\obj\Debug\net8.0\LibraryManagementSysytem.csproj.AssemblyReference.cache
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\obj\Debug\net8.0\LibraryManagementSysytem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\obj\Debug\net8.0\LibraryManagementSysytem.AssemblyInfoInputs.cache
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\obj\Debug\net8.0\LibraryManagementSysytem.AssemblyInfo.cs
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\obj\Debug\net8.0\LibraryManagementSysytem.csproj.CoreCompileInputs.cache
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\obj\Debug\net8.0\LibraryM.072EDCC6.Up2Date
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\obj\Debug\net8.0\LibraryManagementSysytem.dll
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\obj\Debug\net8.0\refint\LibraryManagementSysytem.dll
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\obj\Debug\net8.0\LibraryManagementSysytem.pdb
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\obj\Debug\net8.0\LibraryManagementSysytem.genruntimeconfig.cache
+C:\Users\10Decoders\source\repos\LibraryManagementSysytem\LibraryManagementSysytem\obj\Debug\net8.0\ref\LibraryManagementSysytem.dll
